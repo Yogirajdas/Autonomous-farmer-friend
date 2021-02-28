@@ -1,4 +1,4 @@
-//Arduino Bluetooth Controlled Car//
+//Arduino Bluetooth Controlled bot for cultivating land & sowing seeds//
 // Before uploading the code you have to install the necessary library//
 //AFMotor Library https://learn.adafruit.com/adafruit-motor-shield/library-install //
 
